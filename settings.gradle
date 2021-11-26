@@ -1,0 +1,2 @@
+rootProject.name = "GameNewsLampa"
+include ':app'
